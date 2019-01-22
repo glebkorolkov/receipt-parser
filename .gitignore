@@ -100,3 +100,4 @@ data/*
 images/
 jsons/*
 !jsons/.gitkeep
+*.sql
